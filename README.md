@@ -3,7 +3,15 @@ This is the final project of the third group of MED5018 in Southern University o
 
 Using the AIDS dataset, we explored various factors that may be associated with AIDS, such as the level of national development, obesity, gender, etc.
 
-We find that...
+We find that：
+
+    1. Between 1990 and 2019, the death rate from AIDS was much higher in developing countries than in developed countries, which may be related to the level of medical care.
+    2. Drug use has become an important factor in the spread of AIDS in developed countries
+    3. The variation trend of YLLs is the same as that of DALYs. DALYs in low SDI areas are much more affected by AIDS than those in high SDI areas.(DALYs and YLLs increased with the decrease of SDI.)
+    4. AIDS causes the highest number of deaths in Africa. The number of AIDS deaths is decreasing year by year in Western Europe and the high-income Americas.
+    5. The rate of HIV infection has nothing to do with gender. 
+    6. The number of orphans from HIV are related to capita GDP.
+
 
 Everyone contributed equally according to the division of labor as well as their interests.
 
