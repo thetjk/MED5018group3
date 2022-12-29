@@ -9,7 +9,13 @@ Everyone contributed equally according to the division of labor as well as their
 
 ### Here are some visualizations:
 
-![image](https://user-images.githubusercontent.com/102911632/209889513-6d553685-6a3c-4e2d-840c-5d91707da1e7.png)
+![image](https://user-images.githubusercontent.com/102911632/209890967-0f3c6223-92d2-44d6-91d8-c0ac68fd852c.png)
 
-![image](https://user-images.githubusercontent.com/102911632/209890763-7c573bae-72f1-4884-9215-f58b32bf2fd9.png)
+![image](https://user-images.githubusercontent.com/102911632/209890917-a20e819f-4d59-4e4c-ac19-96e2419f0716.png)
+
+![image](https://user-images.githubusercontent.com/102911632/209890880-ea2e52b5-fb16-4cb8-9916-e81286d63d98.png)
+
+![image](https://user-images.githubusercontent.com/102911632/209891004-8ac59d19-b000-4289-9a65-031993792355.png)
+
+![image](https://user-images.githubusercontent.com/102911632/209891016-1b30b93a-6e23-4c39-a19f-1be40b4a19df.png)
 
